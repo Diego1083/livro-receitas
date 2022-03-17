@@ -1,6 +1,8 @@
 Livro de receitas 
-Olá Bem vindoao meu livro de receitas
+OlÃ¡ Bem vindoao meu livro de receitas
 
 Strogonoff de Frango
 
-Pavê
+PavÃª
+
+MaÃ§a
