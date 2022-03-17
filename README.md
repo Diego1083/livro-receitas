@@ -6,3 +6,5 @@ Strogonoff de Frango
 Pavê
 
 Maça
+
+Pera
